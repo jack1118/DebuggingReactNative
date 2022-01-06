@@ -15,4 +15,4 @@ $ npx react-native run-android
 
 ### - Materials
 
-- Refer [DebuggingReactNative_JackCHLin_20220106.pdf](/DebuggingReactNative_JackCHLin_20220106.pdf)
+- Refer to [DebuggingReactNative_JackCHLin_20220106.pdf](/DebuggingReactNative_JackCHLin_20220106.pdf)
