@@ -1,15 +1,21 @@
-# Debug Demo - Program 1
-
-Program 1 of Debug React Native Demo.
+# Debug Demo - Add New Goal
+A react native program of adding new goals for debugging react native demo use.
 
 ### - Requirements
 
 - have a working React Native environment. (https://reactnative.dev/docs/environment-setup)
-- are using VS Code and have installed this extension from the Marketplace.
+- are using VS Code and have installed Microsoft’s React Native Tools extension from the Marketplace.
 
 ### - Setup and start
 
 ```
 $ npx react-native run-android
+
+```
+
+### - Materials
+
+```
+Refer DebugginReactNative_JackCHLin_20220106.pdf
 
 ```
